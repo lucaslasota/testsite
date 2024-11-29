@@ -1,5 +1,7 @@
 main:
-  - title: "Publications"
-    url: /publications/
-
-    
+  - title: "Academic"
+    url: /academic/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Policy Papers"
+    url: /policy-papers/
